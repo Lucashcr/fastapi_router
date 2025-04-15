@@ -1,0 +1,21 @@
+[project]
+name = "fastapi_autorouter"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Lucas Rocha",email = "lucash.rocha@hotmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+fastapi = "^0.115.12"
+uvicorn = "^0.34.1"
+
