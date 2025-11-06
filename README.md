@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# fastapi_router
-=======
 # FastAPI AutoRoutes
 
 Gere endpoints do FastAPI automaticamente com base na estrutura de arquivos do sistema.
@@ -64,9 +61,9 @@ Coloque sua estrutura de arquivos em routes/ seguindo os padrões.
 ---
 
 ### 🔧 Requisitos
+
 Python 3.8+
 
 FastAPI
 
 ---
->>>>>>> ed3cc3f (feat: First commit)
